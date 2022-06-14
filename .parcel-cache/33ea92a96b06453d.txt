@@ -1,13 +1,12 @@
-12
-19E:\jirengu\cv-1\src132996897267446976 1
-29E:\jirengu\cv-1\src\style.css132996965108491936 0
-20E:\jirengu\cv-1\dist132996971046729136 1
-30E:\jirengu\cv-1\src\index.html132996967143524972 0
-43E:\jirengu\cv-1\dist\index.2cdaf7bc.css.map132996968688059017 0
+11
+19E:\jirengu\cv-1\src132997096268297204 1
+20E:\jirengu\cv-1\dist132997173106614874 1
+30E:\jirengu\cv-1\src\index.html132997110858811012 0
+43E:\jirengu\cv-1\dist\index.2cdaf7bc.css.map132997036576503599 0
 41E:\jirengu\cv-1\dist\cv-1.59712999.js.map132996845967047700 0
-27E:\jirengu\cv-1\src\main.js132996971043589713 0
-39E:\jirengu\cv-1\dist\index.2cdaf7bc.css132996968687879498 0
+27E:\jirengu\cv-1\src\main.js132997167766865365 0
+38E:\jirengu\cv-1\dist\index.de158e3a.js132997173105525157 0
+39E:\jirengu\cv-1\dist\index.2cdaf7bc.css132997036576503599 0
 37E:\jirengu\cv-1\dist\cv-1.59712999.js132996845966618099 0
-38E:\jirengu\cv-1\dist\index.de158e3a.js132996971046644540 0
-31E:\jirengu\cv-1\dist\index.html132996968687959276 0
-42E:\jirengu\cv-1\dist\index.de158e3a.js.map132996971046644540 0
+31E:\jirengu\cv-1\dist\index.html132997173106594938 0
+42E:\jirengu\cv-1\dist\index.de158e3a.js.map132997173105634865 0
